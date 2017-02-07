@@ -2,9 +2,7 @@
 #include <bitset>
  
 using namespace std;
- 
- 
- 
+
 int main()
 {
     int C[1668][4], n, m, i, j, dual, sol[1668], k;
